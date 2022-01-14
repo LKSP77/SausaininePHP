@@ -1,2 +1,2 @@
-# SausininePHP
+# SausaininePHP
 Sausaininė - užduotis.
